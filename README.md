@@ -7,7 +7,7 @@
 - ✨ Crafted last [Scrimbot](scrimbot.schwa.tech/)
 - 🤖 Private Discord Bot Development
 
-##### BIO
+##### ABOUT ME
 
 - 🏢 I'm currently working at **Starbucks**
 - ⚙️ My Daily Languages: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
