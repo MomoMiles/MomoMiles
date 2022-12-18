@@ -14,6 +14,6 @@
 - 🌍 I'm mostly active within **My Schools Community**
 - 🌱 Learning all about **Javascript**
 - 💬 Ping me about **Twitch**, **Discord**, **development**, **design thinking**
-- 📫 Reach me: [Discord](https://discordapp.com/channels/@me/137047901489594368/), [Email](mailto:business@milesvaldez.com)
+- 📫 Reach me: <a href="https://discordapp.com/channels/@me/137047901489594368/" target="_blank">Discord</a>, [Email](mailto:business@milesvaldez.com)
 - 👩‍🏫 My Resume / Website: [milesvaldez.com](https://milesvaldez.com)
 - ⚡️ Fun fact: I am an avid rock climber!
