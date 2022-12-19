@@ -1,3 +1,11 @@
+<p align="center">
+	<a href="https://twitter.com/MomoMilesTV"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/MomoMiles"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/miles-valdez/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/MomoMiles"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="https://milesvaldez.com"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+</p>
+
 ### Hi there 👋
 
 #### I'm a new Full-Stack Developer working learning to code as I go.
