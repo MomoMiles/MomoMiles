@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-#### I'm a new Full-Stack Developer working learning to code as I go.
+#### I'm a new Developer learning to code as I go.
 
 ##### RECENT PROJECTS
 
@@ -17,7 +17,7 @@
 
 ##### ABOUT ME
 
-- 🏢 I'm currently working at **Starbucks**
+- 🏢 I'm currently working **Freelance**
 - ⚙️ My Daily Languages: `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within **My Schools Community**
 - 🌱 Learning all about **Javascript**
