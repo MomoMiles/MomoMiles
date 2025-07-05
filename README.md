@@ -12,7 +12,7 @@
 
 ##### RECENT PROJECTS
 
-- ✨ Crafted last [Scrimbot](scrimbot.schwa.tech/)
+- ✨ Crafted last [ScrimBot](scrimbot.schwa.tech/)
 - 🤖 Private Discord Bot Development
 
 ##### ABOUT ME
